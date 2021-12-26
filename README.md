@@ -1,4 +1,4 @@
-# clean-cra
+# clean-react
 
 Basic, clean create-react-app template that removes test files, icons, tags inside public html and app jsx, service worker files and unnecesary imports.
 
