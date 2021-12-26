@@ -13,10 +13,10 @@
     "description": "Cleaned-up version of the base template for Create React App.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/JorgePasco1/clean-react.git"
+        "url": "https://github.com/imsamimalik/clean-react.git"
     },
     "bugs": {
-        "url": "https://github.com/JorgePasco1/clean-react/issues"
+        "url": "https://github.com/imsamimalik/clean-react/issues"
     },
     "license": "MIT"
 }
